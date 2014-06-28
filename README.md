@@ -1,7 +1,11 @@
 C Advanced Data Structures
 ===========================
 
-Graphviz - dot
+Graphviz dot:
 
 dot -Tps out.dot -o out.ps
 
+
+Compile with:
+
+g++ main.cpp -o maon
