@@ -1,8 +1,0 @@
-# $ dot -Tps out.dot -o out.ps
-
-
- // The graph name and the semicolons are optional
- digraph graphname {
-     a -> b;
-     b -> d;
- }
